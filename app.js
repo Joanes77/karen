@@ -27,9 +27,9 @@ var x = setInterval(function () {
 	if (distance < 0) {
 		clearInterval(x);
 		document.getElementById("countdown-box").innerHTML =
-			"<span class='cdi'>¡¡Feliz Año Nuevo Faltosa!!</span>";
+			"<span class='cdi'>¡¡Feliz Año Nuevo Profe!!</span>";
 		document.querySelector(".title").innerText = "";
-		additionalText.innerText = "Hola Dani, 😊Quiero desearte un 2025 lleno de aventuras, aprendizajes y mucha felicidad. Tienes una personalidad única e increíble, nunca cambies tu esencia, porque eso es lo que te hace especial. ¡Ah, y ojalá juegues muchos videojuegos este año! 🎮✨";
+		additionalText.innerText = "Hola Profe Karen, 😊 Quiero desearte un 2025 lleno de aventuras, aprendizajes y mucha felicidad. Tienes una personalidad única e increíble porfaa nunca cambies tu esencia y alegra al enseñar  porque eso te hace especial. ¡Te deseo lo mejor a ti y a tu hijo! ✨";
         additionalText.style.fontFamily = "Comic Sans MS"; // Cambia la fuente dinámicamente
         additionalText.style.color = "#fffff"; // Cambia el color dinámicamente
         additionalText.style.fontSize = "1.4em"; // Cambia el tamaño dinámicamente
