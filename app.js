@@ -35,8 +35,7 @@ var x = setInterval(function () {
         additionalText.style.fontSize = "1.4em"; // Cambia el tamaño dinámicamente
 		additionalText.style.margin = "2px"; // Cambia el tamaño dinámicamente
 		additionalText.style.width = "80%"; // Ajusta el ancho
-additionalText.style.textAlign = "center"; // Alinea el texto
-additionalText.style.padding = "20px"; // Añade espaciado interno
+        additionalText.style.textAlign = "center"; // Alinea el texto
 
 	}
 }, 1000);

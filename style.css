@@ -79,8 +79,7 @@ canvas {
 	}
 	#additional-text {
 		position: absolute;
-		margin: 2px;
-		top: 55%; /* Ajusta la posición vertical */
+		top: 50%; /* Ajusta la posición vertical */
 		left: 50%; /* Centrado horizontal */
 		transform: translate(-50%, -85%);
 		font-size: 1em; /* Tamaño de fuente inicial */
