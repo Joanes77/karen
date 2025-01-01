@@ -65,7 +65,7 @@ canvas {
 	}
 	#countdown-box {
 		text-align: center;
-		top: 30%;
+		top: 20%;
 	}
 	/*#countdown-box:after {
 		content: none;
@@ -108,7 +108,7 @@ canvas {
 .additional-text {
     position: absolute;
 	margin: 2px;
-    top: 90%; /* Ajusta la posición vertical */
+    top: 70%; /* Ajusta la posición vertical */
     left: 50%; /* Centrado horizontal */
     transform: translate(-50%, -85%);
     font-size: 1em; /* Tamaño de fuente inicial */
