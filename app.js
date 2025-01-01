@@ -34,6 +34,10 @@ var x = setInterval(function () {
         additionalText.style.color = "#fffff"; // Cambia el color dinámicamente
         additionalText.style.fontSize = "1.4em"; // Cambia el tamaño dinámicamente
 		additionalText.style.margin = "2px"; // Cambia el tamaño dinámicamente
+		additionalText.style.width = "80%"; // Ajusta el ancho
+additionalText.style.textAlign = "center"; // Alinea el texto
+additionalText.style.lineHeight = "1.5"; // Espaciado entre líneas
+
 	}
 }, 1000);
 function addZero(i) {
