@@ -79,6 +79,7 @@ canvas {
 	}
 	#additional-text {
 		position: absolute;
+		padding: 5px;
 		top: 50%; /* Ajusta la posición vertical */
 		left: 50%; /* Centrado horizontal */
 		transform: translate(-50%, -85%);
