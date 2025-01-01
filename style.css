@@ -14,7 +14,7 @@ body {
 canvas {
 	transition: background 2s;
 	width: 100vw;
-	height: 100vh;
+	height: 100vw;
 	cursor: pointer;
 }
 
@@ -84,9 +84,11 @@ canvas {
 		transform: translate(-50%, -85%);
 		font-size: 1em; /* Tamaño de fuente inicial */
 		color: #ffffff; /* Color base */
+		margin: 4px;
 		text-shadow: 
 			0 0 5px #4400ff,
 			0 0 10px #ffffff;
+
 		  
 		font-family: "Arial", sans-serif; /* Cambia "Arial" por tu fuente preferida */
 		text-align: center;
