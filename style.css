@@ -59,7 +59,7 @@ canvas {
 .cdi-lbl {
 	font-size: 0.5em;
 }
-@media (max-width: 775px) {
+@media (max-width: 895px) {
 	.title {
 		top: 0.5em;
 	}
@@ -77,7 +77,7 @@ canvas {
 	.cdi-lbl {
 		color: #f5f5f5;
 	}
-	.additional-text {
+	#additional-text {
 		position: absolute;
 		margin: 2px;
 		top: 40%; /* Ajusta la posición vertical */
