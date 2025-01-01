@@ -36,7 +36,7 @@ var x = setInterval(function () {
 		additionalText.style.margin = "2px"; // Cambia el tamaño dinámicamente
 		additionalText.style.width = "80%"; // Ajusta el ancho
 additionalText.style.textAlign = "center"; // Alinea el texto
-additionalText.style.lineHeight = "1.5"; // Espaciado entre líneas
+additionalText.style.padding = "20px"; // Añade espaciado interno
 
 	}
 }, 1000);
